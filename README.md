@@ -1,6 +1,6 @@
 # Naan Mudhalvan Projects
 
-- [Damaged Car Image Preprocessing](https://github.com/albi-smith/damaged-car-image-preprocessing)
+- [Brain Tumor Segmentation](https://github.com/albi-smith/Naan-Mudhalvan-Projects-/blob/main/Brain%20Tumor.ipynb)
 - [Number Plate Detection](https://github.com/albi-smith/number-plate-detection)
 
 ## Team Members
